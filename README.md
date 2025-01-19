@@ -15,6 +15,9 @@ With this package, you can:
 Install the package using
 ` pip install 102203201-simrat`
 
+# How to use?
+simply write simtopsis on the cli
+
 # Input Parameters
 
 1. Input CSV File: Path to your dataset in CSV format.
