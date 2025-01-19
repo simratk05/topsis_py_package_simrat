@@ -16,7 +16,7 @@ Install the package using
 ` pip install 102203201-simrat`
 
 # How to use?
-simply write simtopsis on the cli
+Simply write simtopsis on the CLI
 
 # Input Parameters
 
